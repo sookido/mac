@@ -1,5 +1,6 @@
 # mac
 
+```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 brew update
@@ -28,3 +29,4 @@ brew install Caskroom/cask/the-unarchiver
 brew install Caskroom/cask/atom
 
 brew cleanup
+```
