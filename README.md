@@ -17,6 +17,7 @@ brew install vim
 brew install findutils
 brew install smartmontools
 brew install tmux
+brew install android-sdk
 
 brew cask install iterm2 || true
 brew cask install java || true
