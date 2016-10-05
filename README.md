@@ -18,6 +18,7 @@ brew install findutils
 brew install smartmontools
 brew install tmux
 brew install android-sdk
+android update sdk --no-ui --filter 'platform-tools'
 
 brew cask install iterm2 || true
 brew cask install java || true
