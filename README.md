@@ -18,8 +18,6 @@ brew install tmux
 brew cask install java || true
 brew cask install android-studio
 
-yes | android update sdk --no-ui --filter 'platform-tools'
-
 brew cask install google-chrome || true
 brew cask install virtualbox || true
 brew cask install google-japanese-ime || true
